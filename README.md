@@ -1,4 +1,5 @@
-<img width="1024" height="337" alt="a59a953c-f6dc-4354-9c86-05b68f4b54f8" src="https://github.com/user-attachments/assets/c7b6a435-247a-473a-9f49-7a1d0d42083f" />
+<img width="1584" height="396" alt="Background" src="https://github.com/user-attachments/assets/d1dfee36-d5f4-454c-adc3-0d6efc55fe4e" />
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;AWS+Cloud+Developer;Building+Digital+Solutions;Always+Learning+New+Technologies" />
 </p>
