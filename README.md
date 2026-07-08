@@ -26,7 +26,11 @@ Hi 👋 I'm a passionate developer who loves turning ideas into reality.
 <img src="https://streak-stats.demolab.com?user=ashay-thorat&theme=tokyonight"/>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashay-thorat&theme=tokyo-night"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashay-thorat/ashay-thorat/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashay-thorat/ashay-thorat/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashay-thorat/ashay-thorat/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashay-thorat&layout=compact&theme=dark)
 
