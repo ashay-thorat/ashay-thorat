@@ -1,3 +1,6 @@
+<img width="1024" height="337" alt="a59a953c-f6dc-4354-9c86-05b68f4b54f8" src="https://github.com/user-attachments/assets/c7b6a435-247a-473a-9f49-7a1d0d42083f" />
+
+
 # 💫 About Me:   
 
 Hi 👋 I'm a passionate developer who loves turning ideas into reality.
