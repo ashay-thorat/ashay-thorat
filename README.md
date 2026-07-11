@@ -12,7 +12,7 @@ Hi 👋 I'm a passionate developer who loves turning ideas into reality.
 📱 Android App Developer  
 💻 Building modern, responsive & scalable applications  
 ⚡ Always learning new technologies  
-🎯 Goal: To create impactful digital solutions <br>
+🎯 Goal: To create impactful digital solutions <br> 
 
 
 ## 🌐 Socials:
