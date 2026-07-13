@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;AWS+Cloud+Developer;Building+Digital+Solutions;Always+Learning+New+Technologies" />
 </p>
-
+  
 # 💫 About Me:   
 
 Hi 👋 I'm a passionate developer who loves turning ideas into reality.
