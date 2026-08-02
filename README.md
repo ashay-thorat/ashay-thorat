@@ -1,5 +1,5 @@
 <img width="1584" height="396" alt="Background" src="https://github.com/user-attachments/assets/d1dfee36-d5f4-454c-adc3-0d6efc55fe4e" />
-
+  
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;AWS+Cloud+Developer;Building+Digital+Solutions;Always+Learning+New+Technologies" />
 </p>
